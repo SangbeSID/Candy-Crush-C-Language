@@ -8,5 +8,5 @@ This game was designed for <strong>WINDOWS</strong> OS only.
 <strong>Don't hesitate to read the help in the game.</strong>
 <br/><br/>
 <div align="center">
-  <img src="ccc_img.jpg" target="_blank" width="200px" height="400px"/>
+  <img src="ccc_img.jpg" target="_blank" width="500px" height="500px"/>
 </div>
